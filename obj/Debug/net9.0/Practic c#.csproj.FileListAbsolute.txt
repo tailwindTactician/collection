@@ -1,0 +1,14 @@
+C:\Users\mardin\Desktop\Practic c#\obj\Debug\net9.0\Practic c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin\Desktop\Practic c#\obj\Debug\net9.0\Practic c#.AssemblyInfoInputs.cache
+C:\Users\mardin\Desktop\Practic c#\obj\Debug\net9.0\Practic c#.AssemblyInfo.cs
+C:\Users\mardin\Desktop\Practic c#\obj\Debug\net9.0\Practic c#.csproj.CoreCompileInputs.cache
+C:\Users\mardin\Desktop\Practic c#\bin\Debug\net9.0\Practic c#.exe
+C:\Users\mardin\Desktop\Practic c#\bin\Debug\net9.0\Practic c#.deps.json
+C:\Users\mardin\Desktop\Practic c#\bin\Debug\net9.0\Practic c#.runtimeconfig.json
+C:\Users\mardin\Desktop\Practic c#\bin\Debug\net9.0\Practic c#.dll
+C:\Users\mardin\Desktop\Practic c#\bin\Debug\net9.0\Practic c#.pdb
+C:\Users\mardin\Desktop\Practic c#\obj\Debug\net9.0\Practic c#.dll
+C:\Users\mardin\Desktop\Practic c#\obj\Debug\net9.0\refint\Practic c#.dll
+C:\Users\mardin\Desktop\Practic c#\obj\Debug\net9.0\Practic c#.pdb
+C:\Users\mardin\Desktop\Practic c#\obj\Debug\net9.0\Practic c#.genruntimeconfig.cache
+C:\Users\mardin\Desktop\Practic c#\obj\Debug\net9.0\ref\Practic c#.dll
